@@ -11,8 +11,9 @@ __pycache__/
 
 #embeddings that we generate
 *.vec
+
 #results generated
-*.csv
+output/*.csv
 
 #valence vector files
 *.npy
